@@ -1,4 +1,4 @@
-# UNAL_ESTUDIANTE_AYUDA
+# Automatización de algunos procesos estudiantiles de notas y créditos UNAL!
 Un repositorio realizado por un estudiante de la UNAL para ayudar a realizar algunos cálculos y análisis basados en la plataforma SIA (como el PAPA).
 En este repositorio podrá exportar la tabla de calificaciones y créditos de "Historia Académica" a formato excel 
 y algunas proyecciones con tus notas actuales y futuras.
